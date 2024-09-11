@@ -67,9 +67,7 @@ Display shutdown message and exit program
 ### Patient Functions
 
 -logn_in_pat(): prompt for patient ID and check if it exists in the system<br>
--post_login_pat(): display patient options:
--View history
--Request a visit
--view_history(): display a patient's history
--request_slots(): display available slots and prompt patient to choose one
+-post_login_pat()<br> 
+-view_history(): display a patient's history<br>
+-request_slots(): display available slots and prompt patient to choose one<br>
 
